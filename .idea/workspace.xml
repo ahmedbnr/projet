@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cf8f78-503b-407c-ad4e-643f9ae8fb2e" name="Default Changelist" comment="" />
+    <list default="true" id="e1cf8f78-503b-407c-ad4e-643f9ae8fb2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +67,25 @@
     <session id="1170950836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.47" value="3" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="js" value="3" />
-          <entry key="php" value="49" />
+          <entry key="js" value="4" />
+          <entry key="php" value="52" />
           <entry key="rnc" value="1" />
           <entry key="sql" value="1" />
         </counts>
@@ -87,8 +93,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="JavaScript" value="3" />
-          <entry key="PHP" value="49" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="52" />
           <entry key="RNG Compact" value="1" />
           <entry key="SQL" value="1" />
         </counts>
@@ -96,14 +102,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="11" />
-          <entry key="php" value="1924" />
+          <entry key="php" value="1926" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="11" />
-          <entry key="PHP" value="1922" />
+          <entry key="PHP" value="1924" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class">
@@ -116,48 +122,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/clients.php">
+        <entry file="file://$PROJECT_DIR$/cores/UserC.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/modifierAdmin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3349">
-              <caret line="197" column="53" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/modifierRole.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1632">
-              <caret line="96" column="40" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cores/RoleC.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="27">
+              <caret line="409" column="48" lean-forward="true" selection-start-line="409" selection-start-column="48" selection-end-line="409" selection-end-column="48" />
               <folding>
-                <element signature="n#getRole#0;n#RoleC#0;n#!!top" />
+                <element signature="n#resetPassword#0;n#UserC#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entities/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/js/profile.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/administrateur.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
+            <state relative-caret-position="5729">
               <caret line="337" column="47" selection-start-line="337" selection-start-column="47" selection-end-line="337" selection-end-column="47" />
             </state>
           </provider>
@@ -181,7 +183,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4199">
@@ -194,7 +196,7 @@
         <entry file="file://$PROJECT_DIR$/views/logout.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="61" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="61" />
+              <caret line="3" column="61" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -220,7 +222,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>login</find>
       <find>connex</find>
       <find>region</find>
       <find>logou</find>
@@ -250,6 +251,7 @@
       <find>modifier</find>
       <find>getEmp</find>
       <find>mon</find>
+      <find>ahmed.bannour</find>
     </findStrings>
     <replaceStrings>
       <replace>16</replace>
@@ -260,6 +262,9 @@
       <replace>15</replace>
       <replace>13</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -298,7 +303,6 @@
         <option value="$PROJECT_DIR$/views/signup.php" />
         <option value="$PROJECT_DIR$/cores/verification.php" />
         <option value="$PROJECT_DIR$/views/profile.php" />
-        <option value="$PROJECT_DIR$/cores/UserC.php" />
         <option value="$PROJECT_DIR$/views/vendor/role.php" />
         <option value="$PROJECT_DIR$/views/js/livreur.js" />
         <option value="$PROJECT_DIR$/entities/User.php" />
@@ -308,6 +312,7 @@
         <option value="$PROJECT_DIR$/views/modifierRole.php" />
         <option value="$PROJECT_DIR$/views/headerAdmin.php" />
         <option value="$PROJECT_DIR$/views/header.php" />
+        <option value="$PROJECT_DIR$/cores/UserC.php" />
       </list>
     </option>
   </component>
@@ -317,17 +322,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="707" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="55" />
     <option name="width" value="666" />
     <option name="height" value="775" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -365,6 +370,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,11 +427,15 @@
       <workItem from="1554140890929" duration="3132000" />
       <workItem from="1554147883636" duration="5714000" />
       <workItem from="1554157680420" duration="922000" />
+      <workItem from="1554162325225" duration="82000" />
+      <workItem from="1554162857078" duration="634000" />
+      <workItem from="1554166342251" duration="478000" />
+      <workItem from="1554213060978" duration="3094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130188000" />
+    <option name="totallyTimeSpent" value="134476000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,9 +447,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2968254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21904762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,7 +462,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -495,28 +506,10 @@
           <line>192</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/cores/UserC.php</url>
-          <line>409</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/cores/UserC.php</url>
-          <line>297</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/cores/UserC.php</url>
-          <line>138</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/assets/js/lib/data-table/vfs_fonts.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/assets/js/lib/data-table/jszip.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -587,20 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user.sql" />
     <entry file="file://$PROJECT_DIR$/views/footer.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -698,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/entities/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/js/livreur.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
@@ -733,39 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cores/UserC.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="334" column="24" selection-start-line="334" selection-start-column="24" selection-end-line="334" selection-end-column="24" />
-          <folding>
-            <element signature="n#generateToken#0;n#UserC#0;n#!!top" />
-            <element signature="n#verifierUniqueCin#0;n#UserC#0;n#!!top" />
-            <element signature="n#verifierUniqueEmail#0;n#UserC#0;n#!!top" />
-            <element signature="n#verifierUniqueUsername#0;n#UserC#0;n#!!top" />
-            <element signature="n#verifierUniqueNumero#0;n#UserC#0;n#!!top" />
-            <element signature="n#activateAccount#0;n#UserC#0;n#!!top" />
-            <element signature="n#seConnecter#0;n#UserC#0;n#!!top" />
-            <element signature="n#connected#0;n#UserC#0;n#!!top" />
-            <element signature="n#updateProfile#0;n#UserC#0;n#!!top" />
-            <element signature="n#getClients#0;n#UserC#0;n#!!top" />
-            <element signature="n#getTechnicien#0;n#UserC#0;n#!!top" />
-            <element signature="n#getLivreur#0;n#UserC#0;n#!!top" />
-            <element signature="n#getAdmin#0;n#UserC#0;n#!!top" />
-            <element signature="n#creerLivreur#0;n#UserC#0;n#!!top" />
-            <element signature="n#creerTechnicien#0;n#UserC#0;n#!!top" />
-            <element signature="n#chercherLivreur#0;n#UserC#0;n#!!top" />
-            <element signature="n#chercherTechnicien#0;n#UserC#0;n#!!top" />
-            <element signature="n#chercherAdmin#0;n#UserC#0;n#!!top" />
-            <element signature="n#deleteUser#0;n#UserC#0;n#!!top" />
-            <element signature="n#updateEmploye#0;n#UserC#0;n#!!top" />
-            <element signature="n#unBlockUser#0;n#UserC#0;n#!!top" />
-            <element signature="n#creerAdmin#0;n#UserC#0;n#!!top" />
-            <element signature="n#verifyUrl#0;n#UserC#0;n#!!top" />
-            <element signature="n#resetPassword#0;n#UserC#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/clients.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -787,6 +727,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cores/RoleC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/administrateur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5729">
+          <caret line="337" column="47" selection-start-line="337" selection-start-column="47" selection-end-line="337" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/Livreur.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6596">
@@ -801,17 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4199">
-          <caret line="247" column="85" selection-start-line="247" selection-start-column="83" selection-end-line="247" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="61" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="61" />
+          <caret line="3" column="61" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -822,20 +769,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cores/RoleC.php">
+    <entry file="file://$PROJECT_DIR$/views/js/profile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entities/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cores/UserC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="409" column="48" lean-forward="true" selection-start-line="409" selection-start-column="48" selection-end-line="409" selection-end-column="48" />
           <folding>
-            <element signature="n#getRole#0;n#RoleC#0;n#!!top" />
+            <element signature="n#resetPassword#0;n#UserC#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/administrateur.php">
+    <entry file="file://$PROJECT_DIR$/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="337" column="47" selection-start-line="337" selection-start-column="47" selection-end-line="337" selection-end-column="47" />
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4199">
+          <caret line="247" column="85" selection-start-line="247" selection-start-column="83" selection-end-line="247" selection-end-column="85" />
         </state>
       </provider>
     </entry>
